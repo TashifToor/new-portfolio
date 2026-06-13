@@ -92,7 +92,7 @@ const EXP = [
     pts: ["Architecting FastAPI service layer for live airline-operations platform; designed service contracts from scratch.", "Engineered PostgreSQL schema cutting data access latency 30% via query optimisation & indexing."] },
   { role: "AI Engineer — Team Lead", co: "WorldWise Solutions", period: "Feb — May 2026", type: "Contract · Remote", live: false,
     pts: ["Built HadeesGPT — Hadees RAG (LangChain + ChromaDB) hitting 92% query accuracy.", "Directed 3-engineer ML team shipping production AI systems."] },
-  { role: "Backend Developer — Lead", co: "CodeCelix", period: "Sep — Nov 2025", type: "Contract · Remote", live: false,
+  { role: "Backend Developer — Team Lead", co: "CodeCelix", period: "Sep — Nov 2025", type: "Contract · Remote", live: false,
     pts: ["Delivered 8 production DRF endpoints integrated with React frontend.", "Cut integration turnaround 35% via code reviews across 3-member team."] },
 ];
 
